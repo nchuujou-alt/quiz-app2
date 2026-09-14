@@ -154,11 +154,12 @@ h1 {
 }
 
 #next-btn {
-  background: #ec4899;
+  background: #d4af37;
+  color: #1a1a1a;
 }
 
 #next-btn:hover:not(:disabled) {
-  background: #db2777;
+  background: #c19b2e;
 }
 
 #result-screen {
