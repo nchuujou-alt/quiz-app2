@@ -16,3 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - HTML/CSS/JavaScriptのみで完結するシンプルな構成を維持する(特別な理由がない限り、ビルドステップやフレームワークを追加しない)。
 - ブラウザで `index.html` を直接開く、またはローカルサーバー(例: `npx serve` や VSCode の Live Server 等)で動作確認する運用を想定する。
+
+## GitHubリポジトリ
+
+https://github.com/nchuujou-alt/quiz-app2
